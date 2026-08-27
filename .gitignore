@@ -2,8 +2,8 @@
 /target/
 **/*.go.bk
 *.pem
-.env
 !config/config.yaml
+temp_auto_push.bat
 config/keys/
 node_modules/
 .next/
@@ -11,3 +11,6 @@ node_modules/
 /tmp/
 *.prod.yml
 /indexer
+.gitignore
+branch_structure.json
+config.bat
